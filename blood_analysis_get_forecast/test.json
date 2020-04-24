@@ -1,0 +1,7 @@
+{
+    "params": {
+      "querystring": {
+        "user_id": "colocar o item id que voce quer ver o forecast"
+      }
+    }
+  }

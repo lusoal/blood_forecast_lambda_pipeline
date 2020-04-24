@@ -1,0 +1,7 @@
+{
+    "Records": [
+      {
+        "body": "{\"responsePayload\":{\"statusCode\": 200, \"body\": \"minha_fila_sqs_arn/IMPORT_JOB_data_do_job_import\"}}"
+      }
+    ]
+  }

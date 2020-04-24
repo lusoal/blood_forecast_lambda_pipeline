@@ -1,0 +1,14 @@
+{
+    "Records": [
+      {
+        "s3": {
+          "bucket": {
+            "name": "meu_amazon_s3_bucket"
+          },
+          "object": {
+            "key": "caminho/para/o/meu.csv"
+          }
+        }
+      }
+    ]
+  }

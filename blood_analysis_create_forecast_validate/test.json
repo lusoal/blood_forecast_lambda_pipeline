@@ -1,0 +1,7 @@
+{
+    "Records": [
+      {
+        "body": "{\"responsePayload\":{\"statusCode\": 200, \"body\": \"minha_fila_sqs_arn/blood_analysis_forecast_data\"}}"
+      }
+    ]
+  }
